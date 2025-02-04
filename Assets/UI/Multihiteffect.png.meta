@@ -1,0 +1,578 @@
+fileFormatVersion: 2
+guid: 878b44d861a884f2da9c89a46defad6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3222614167320485003
+    second: Multihiteffect_0
+  - first:
+      213: -3037703580825440327
+    second: Multihiteffect_1
+  - first:
+      213: 3073013541202965402
+    second: Multihiteffect_2
+  - first:
+      213: -5932587406448531422
+    second: Multihiteffect_3
+  - first:
+      213: -2504787121655895582
+    second: Multihiteffect_4
+  - first:
+      213: 1023747265164453874
+    second: Multihiteffect_5
+  - first:
+      213: 4786637179112114641
+    second: Multihiteffect_6
+  - first:
+      213: -7002052989056886894
+    second: Multihiteffect_7
+  - first:
+      213: -1558167821523292616
+    second: Multihiteffect_9
+  - first:
+      213: -5179437806948711081
+    second: Multihiteffect_15
+  - first:
+      213: 6770131050524600270
+    second: Multihiteffect_21
+  - first:
+      213: 277413717360042594
+    second: Multihiteffect_22
+  - first:
+      213: -1907254832182723344
+    second: Multihiteffect_23
+  - first:
+      213: -8578087765849848355
+    second: Multihiteffect_37
+  - first:
+      213: -2208592732919604834
+    second: Multihiteffect_53
+  - first:
+      213: -6830908290796782213
+    second: Multihiteffect_55
+  - first:
+      213: -8962476069709512647
+    second: Multihiteffect_56
+  - first:
+      213: -6924184886132165228
+    second: Multihiteffect_59
+  - first:
+      213: -6228034470598337751
+    second: Multihiteffect_63
+  - first:
+      213: 711142280053562814
+    second: Multihiteffect_64
+  - first:
+      213: 6571168187396713057
+    second: Multihiteffect_8
+  - first:
+      213: 6941252106012695098
+    second: Multihiteffect_10
+  - first:
+      213: 4960152561799092105
+    second: Multihiteffect_11
+  - first:
+      213: 7826266590956643810
+    second: Multihiteffect_12
+  - first:
+      213: -8773503051947283954
+    second: Multihiteffect_13
+  - first:
+      213: 8567980287982731163
+    second: Multihiteffect_14
+  - first:
+      213: -234434962078373600
+    second: Multihiteffect_16
+  - first:
+      213: 3599398572481850428
+    second: Multihiteffect_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Multihiteffect_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 268
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573a8bc2d79f643d0800000000000000
+      internalID: -3222614167320485003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multihiteffect_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 260
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a933e51c88985aa20800000000000000
+      internalID: 3073013541202965402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multihiteffect_3
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 252
+        width: 87
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228edaf9f273bada0800000000000000
+      internalID: -5932587406448531422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multihiteffect_5
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 258
+        width: 84
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7a7efa6b4153e00800000000000000
+      internalID: 1023747265164453874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multihiteffect_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 164
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9c7a9572d8d6240800000000000000
+      internalID: 4786637179112114641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multihiteffect_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 156
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2975dc8a7e5b3de90800000000000000
+      internalID: -7002052989056886894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multihiteffect_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 141
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ee8a13f96406ae0800000000000000
+      internalID: -1558167821523292616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multihiteffect_15
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 26
+        width: 102
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7550894a1c0fe18b0800000000000000
+      internalID: -5179437806948711081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multihiteffect_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 262
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfa7fb00b8e7d5d0800000000000000
+      internalID: -3037703580825440327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multihiteffect_4
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 255
+        width: 90
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e92abf32653d3dd0800000000000000
+      internalID: -2504787121655895582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multihiteffect_8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 148
+        width: 77
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ae021a6aa713b50800000000000000
+      internalID: 6571168187396713057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multihiteffect_10
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 139
+        width: 89
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a915b9308445060800000000000000
+      internalID: 6941252106012695098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multihiteffect_11
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 127
+        width: 102
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98757c5997006d440800000000000000
+      internalID: 4960152561799092105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multihiteffect_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 52
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e56a77cffb7c9c60800000000000000
+      internalID: 7826266590956643810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multihiteffect_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 36
+        width: 80
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a60e055714e3680800000000000000
+      internalID: -8773503051947283954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multihiteffect_14
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 25
+        width: 89
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f72c34da497e670800000000000000
+      internalID: 8567980287982731163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multihiteffect_16
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 30
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029e262e4ae1fbcf0800000000000000
+      internalID: -234434962078373600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multihiteffect_17
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1.3333359
+        width: 102
+        height: 123.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c24d56ee1a3f130800000000000000
+      internalID: 3599398572481850428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
