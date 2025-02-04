@@ -1,1 +1,1 @@
-![Game Screenshot](pics/screenshot.png)
+![Game Screenshot](pics/SpaceShooter.png)
